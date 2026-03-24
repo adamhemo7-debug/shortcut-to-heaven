@@ -11,12 +11,12 @@ A beautiful Islamic daily dhikr (remembrance) companion app to help you stay con
 - **Beautiful Design** - Dark theme with gold accents
 
 ## 🚀 Quick Start
-1. Download `Shortcut-to-Heaven.html`
-2. Double-click to open in your browser
-3. Start your journey to Jannah! 🌙
+1. To acess downloadable version: https://github.com/adamhemo7-debug/shortcut-to-heaven.git
+3. Double-click to open in your browser
+4. Start your journey to Jannah! 🌙
 
 ## 📱 Online
-Visit the live version: [https://your-link-here](#)
+Visit the live version: file:///Users/ahmedibrahim/Downloads/shortcut-to-heaven_1.html
 
 ## 💫 How to Use
 - Click each dhikr card to mark it complete
