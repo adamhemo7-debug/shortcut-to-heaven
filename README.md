@@ -16,7 +16,7 @@ A beautiful Islamic daily dhikr (remembrance) companion app to help you stay con
 4. Start your journey to Jannah! 🌙
 
 ## 📱 Online
-Visit the live version: file:///Users/ahmedibrahim/Downloads/shortcut-to-heaven_1.html
+Visit the live version:  file:///Users/ahmedibrahim/Downloads/shortcut-to-heaven_1.html
 
 ## 💫 How to Use
 - Click each dhikr card to mark it complete
